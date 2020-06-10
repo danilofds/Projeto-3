@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Tupicionario</string>
+
+    <!-- Nome da categoria bichos -->
+    <String name="bichos_categoria">Bichos</String>
+
+    <!-- Nome da categoria culinaria -->
+    <String name="culinaria_categoria">Culinária</String>
+
+    <!-- Nome da categoria plantas -->
+    <String name="plantas_categoria">Plantas</String>
+
+    <!-- Nome da categoria povos nativos -->
+    <String name="povos_nativos_categoria">Povos Nativos</String>
+
 </resources>
